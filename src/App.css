@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+.Game {
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.board {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.board-cell {
+    height: 150px;
+    line-height: 150px;
+    font-size: 30px;
+    border: 1px solid black;
+    flex-basis: 32.3%;
+}
+.win {
+    background: red;
+}
