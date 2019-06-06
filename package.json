@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Aleksandra08/Tic-tac-toe-React",
+  "homepage": "https://aleksandra08.github.io/Tic-tac-toe-React/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

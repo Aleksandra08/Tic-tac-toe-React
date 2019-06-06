@@ -88,5 +88,4 @@ function getWinner(cells) {
 
 }
 
-
 export default Game;
